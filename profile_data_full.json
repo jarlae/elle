@@ -1,0 +1,47 @@
+{
+  "mainColor": "#dbe6ff",
+  "charName": "엘레",
+  "jpSurname": "",
+  "jpSurnameFurigana": "",
+  "jpName": "",
+  "jpNameFurigana": "",
+  "enName": "elle",
+  "imageUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l4woljooiwedcgowo7u3fbdt/bafkreih3guwbzzousntrwjeiflyclok3slvptl6nvuzdwdhqaipuncre2a@jpeg",
+  "copyright": "",
+  "categoryText": "얄님캐자",
+  "categoryLink": "",
+  "fields": [
+    {
+      "name": "키 / 몸무게",
+      "value": "158cm / X2"
+    },
+    {
+      "name": "나이",
+      "value": "27"
+    },
+    {
+      "name": "외관 나이",
+      "value": "14"
+    },
+    {
+      "name": "싫어하는 것",
+      "value": "습한 것, 냄새나는 것, 어두운 것, 차가운 것, 손목을 잡는 것"
+    },
+    {
+      "name": "성향",
+      "value": "완전 중립"
+    }
+  ],
+  "titles": [
+    {
+      "level": "1",
+      "titleText": "개요",
+      "contents": [
+        {
+          "type": "text",
+          "content": "얄님의 오너캐로 쓰고 있는 캐자. 외관 나이와 나이의 격차가 있으나, 서양인 외관 기준이니 동양의 관점에서는 그렇게 어려 보이지 않을 수 있다."
+        }
+      ]
+    }
+  ]
+}
